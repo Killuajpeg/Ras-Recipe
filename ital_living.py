@@ -5,7 +5,7 @@ Ital_living_open = True
 
 while Ital_living_open:
     print ('\n\n***********************************')
-    print ('***** WELCOME TO ITAL COOKING *****')
+    print ('***** WELCOME TO ITAL LIVING! *****')
     print ('***********************************')
 
     print ('1.) Create Recipe')
